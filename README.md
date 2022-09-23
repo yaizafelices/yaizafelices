@@ -3,7 +3,6 @@ I'm Yaiza, Junior Front-End Developer.
 
 - 🔭 I’m looking for an opportunity as a junior web programmer, and to be able to continue learning and putting into practice all my knowledge.
 
--->
 ## Skills :
 
 <div>
